@@ -1,3 +1,4 @@
 # hello-world
 hello-world repository
-This is just a test.
+
+This is a reinforcement exercise.
